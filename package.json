@@ -1,9 +1,9 @@
 {
   "name": "founder-discovery",
   "version": "1.0.0",
-  "description": "Customer discovery skill for Claude Code — interviews, surveys, JTBD, and research synthesis",
+  "description": "Customer discovery skill for Claude Code \u2014 interviews, surveys, JTBD, and research synthesis",
   "author": "ORBWEVA",
-  "license": "MIT",
+  "license": "CC-BY-NC-SA-4.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ORBWEVA/founder-discovery.git"
