@@ -2,6 +2,6 @@
   "name": "founder-discovery",
   "owner": {"name": "ORBWEVA"},
   "plugins": [
-    {"name":"discovery","source":{"source":"github","repo":"ORBWEVA/founder-discovery"},"description":"Customer discovery skill for founders. Use when user wants to design user interviews, build surveys, run Jobs-to-be-Done analysis, or synthesize customer research. Triggers on \"customer discovery\", ","version":"1.0.0","author":{"name":"ORBWEVA"}}
+    {"name":"discovery","source":{"source":"url","url":"https://github.com/ORBWEVA/founder-discovery.git"},"description":"Customer discovery skill for founders. Use when user wants to design user interviews, build surveys, run Jobs-to-be-Done analysis, or synthesize customer research. Triggers on \"customer discovery\", ","version":"1.0.0","author":{"name":"ORBWEVA"}}
   ]
 }
